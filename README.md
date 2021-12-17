@@ -1,6 +1,6 @@
 ---
 coverY: 0
-cover: .gitbook/assets/GITBOOK_BANNER_COINJOIN.png
+cover: .gitbook/assets/GITBOOK_BANNER_COINJOIN_1920x1080.png
 ---
 
 # Why we recommend CoinJoin with Wasabi Wallet

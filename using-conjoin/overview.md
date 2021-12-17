@@ -4,13 +4,13 @@
 
 Wasabi's CoinJoin implementation is open-source and Bitcoin-only on desktop. The wallet itself is privacy-focused, and offers some of the highest security standards. It is easy to use, but has a small learning curve. It is fully non-custodial and access to funds can never be restricted. It has a large community of users and the development team is transparent and reputable.&#x20;
 
-![](../.gitbook/assets/utxo-preview.png)
-
 ### **Coin Control**
 
 Wasabi implements a technique called Coin Control by default. When you are sending transactions, you must select the individual coins available in your wallet, also known as Unspent Transaction Outputs (UTXO), that you wish to send. You can select several at a time if the balance you wish to send exceeds the balance of any one coin.
 
 Think of bitcoins as actual physical coins of different amounts in your pocket. When you spend them, you will combine the change, and you will get some new change back.
+
+![Visual representation of Bitcoin UTXO's](../.gitbook/assets/utxo-preview.png)
 
 ### Labeling
 

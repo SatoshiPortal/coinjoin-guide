@@ -33,3 +33,5 @@ They will not be able to recover your Bitcoin wallets without the password.
 
 If someone has access to both your Seed Backup or computer and its Passphrase, they can steal your Bitcoin! **DO NOT KEEP A COPY OF THEM IN THE SAME PLACE!**
 {% endhint %}
+
+![Scenarios where you can lose your funds.](../.gitbook/assets/how-to-lose-btc.png)
