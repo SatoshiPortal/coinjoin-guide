@@ -1,4 +1,4 @@
-# Using Conjoin
+# Using CoinJoin
 
 1. Download Wasabi Wallet. Follow the detailed instructions <mark style="color:red;">**here**</mark>
 2. Make sure that you have at least a balance of 0.11 bitcoin in your Wasabi wallet.
@@ -24,9 +24,6 @@ Only select coins that have the same anonymity set. Else, this will reduce the p
 7\. Click enqueue.&#x20;
 
 * You will only need to enter your password once. The coinjoin process will restart itself automatically until the target anonymity set is reached.
-
-8\. You will only need to enter your password once.&#x20;
-
 * The coinjoin process will restart itself automatically until the target anonymity set is reached.&#x20;
 
 9\. The coinjoin process begins either once the time elapses (1 hour) or 100 peers have registered themselves.
