@@ -15,8 +15,6 @@
 ### <mark style="color:red;">**WARNING**</mark>
 
 Only select coins that have the same anonymity set. Else, this will reduce the privacy of your coins. Make sure you only select coins that have either a red, yellow or green shield. The green shield with the check mark in it means that those coins are successfully private.&#x20;
-
-**\[Images of shields in Wasabi]**
 {% endhint %}
 
 5\. Make sure the anonymity set is set to 50 (Green shield with check mark) by clicking on the large shield icon under “Target” at the bottom of the page.
