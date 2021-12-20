@@ -9,6 +9,10 @@ Wasabi is an open-source, Bitcoin-only wallet for Desktop. It is privacy-focused
 
 **See the **<mark style="color:red;">****</mark> [<mark style="color:red;">**Wasabi Wallet guide**</mark>](https://app.gitbook.com/o/vkgJ5Qo6ByYsQmJoONIK/s/PdwveKS34LFQnTOWXGHS/) **for the installation process.**
 
+{% hint style="warning" %}
+Using CoinJoin with Wasabi requires a minimum of 0.11 bitcoin.&#x20;
+{% endhint %}
+
 ### Wasabi wallet benefits and limitations
 
 * ✅Easy backup and recovery
