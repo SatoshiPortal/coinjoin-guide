@@ -24,7 +24,7 @@ Using CoinJoin with Wasabi requires a minimum of 0.11 bitcoin.&#x20;
 * ❌Process time: 90 minutes
 * ❌Not available on mobile
 
-<mark style="color:red;">**Read about the benefits of privacy**</mark>
+<mark style="color:red;">****</mark>[<mark style="color:red;">**Read about the benefits of privacy**</mark>](https://medium.com/bull-bitcoin/the-benefits-of-privacy-f728d5215308)<mark style="color:red;">****</mark>
 
 ### **What is this all for?**
 
