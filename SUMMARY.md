@@ -11,7 +11,7 @@
 
 * [Overview](using-conjoin/overview.md)
 * [What you need](using-conjoin/what-you-need.md)
-* [Using Conjoin](using-conjoin/using-conjoin.md)
+* [Using CoinJoin](using-conjoin/using-coinjoin.md)
 
 ## ⚠ Summary
 
