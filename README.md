@@ -7,7 +7,7 @@ cover: .gitbook/assets/GITBOOK_BANNER_COINJOIN_1920x1080.png
 
 Wasabi is an open-source, Bitcoin-only wallet for Desktop. It is privacy-focused, and offers some of the highest security standards. It is easy to use, but has a small learning curve. It is fully non-custodial and access to funds can never be restricted. It has a large community of users and the development team is transparent and reputable. Obfuscating your transaction history with CoinJoin allows you to avoid malicious actors to trace your Bitcoin balance or know where you spend your money.
 
-See the [<mark style="color:red;">**Wasabi Wallet guide**</mark>](https://app.gitbook.com/o/vkgJ5Qo6ByYsQmJoONIK/s/PdwveKS34LFQnTOWXGHS/) **for the installation process.**
+**See the** [<mark style="color:red;">**Wasabi Wallet guide**</mark>](https://app.gitbook.com/o/vkgJ5Qo6ByYsQmJoONIK/s/PdwveKS34LFQnTOWXGHS/) **for the installation process.**
 
 {% hint style="warning" %}
 Using CoinJoin with Wasabi requires a minimum of 0.11 bitcoin.
