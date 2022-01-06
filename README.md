@@ -33,3 +33,5 @@ This is the ideal wallet and privacy implementation for those wanting to achieve
 * Selling Bitcoin to a non-custodial exchange.
 * Ability to transact with Bitcoin without having your transaction history traced back to you.
 * Storing Bitcoin for long-term all the while maintaining plausible deniability.
+
+<mark style="color:red;">****</mark>[<mark style="color:red;">**Read about the benefits of self-custody.**</mark>](https://medium.com/bull-bitcoin/top-7-reasons-to-self-custody-b1853db0f435)<mark style="color:red;">****</mark>
