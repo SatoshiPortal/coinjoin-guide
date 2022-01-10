@@ -13,12 +13,12 @@ Wasabi is an open-source, Bitcoin-only wallet for Desktop. It is privacy-focused
 Using CoinJoin with Wasabi requires a minimum of 0.11 bitcoin.
 {% endhint %}
 
-### Wasabi wallet benefits and limitations
+### Wasabi Wallet benefits and limitations
 
 * ✅Easy backup and recovery
 * ✅Highest privacy available
 * ✅Advanced transaction features
-* ✅ Good long-term solution
+* ✅Good long-term solution
 * ✅Compatible with hardware wallets
 * ✅Reputable and renown
 * ❌Process time: 90 minutes

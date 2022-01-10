@@ -1,6 +1,6 @@
 # Overview
 
-## About CoinJoin with Wasabi wallet
+## About CoinJoin with Wasabi Wallet
 
 Wasabi's CoinJoin implementation is open-source and Bitcoin-only on desktop. The wallet itself is privacy-focused, and offers some of the highest security standards. It is easy to use, but has a small learning curve. It is fully non-custodial and access to funds can never be restricted. It has a large community of users and the development team is transparent and reputable.&#x20;
 

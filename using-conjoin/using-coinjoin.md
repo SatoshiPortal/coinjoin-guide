@@ -1,8 +1,8 @@
 # Using CoinJoin
 
-1. Download Wasabi Wallet. Follow the detailed instructions <mark style="color:red;">**here**</mark>
+1. Download Wasabi Wallet. Follow the detailed instructions [<mark style="color:red;">**here**</mark>](https://app.gitbook.com/o/vkgJ5Qo6ByYsQmJoONIK/s/PdwveKS34LFQnTOWXGHS/)<mark style="color:red;">**.**</mark>
 2. Make sure that you have at least a balance of 0.11 bitcoin in your Wasabi wallet.
-   * To add bitcoin to your wallet, <mark style="color:red;">**check “Receiving Bitcoin” from the Wasabi wallet guide**</mark>** ** (link).
+   * To add bitcoin to your wallet, <mark style="color:red;">**check “Receiving Bitcoin” from the**</mark> [<mark style="color:red;">**Wasabi wallet guide**</mark>](https://app.gitbook.com/o/vkgJ5Qo6ByYsQmJoONIK/s/PdwveKS34LFQnTOWXGHS/)<mark style="color:red;">**.**</mark>
    * You cannot CoinJoin directly from your hardware wallet, you need to have funds in the wallet you create using Wasabi.
 3. Open your Wasabi Bitcoin wallet from the right-hand menu, under “Wallet Explorer”.
 4. Select “CoinJoin” from the dropdown menu.
@@ -23,18 +23,18 @@ Only select coins that have the same anonymity set. Else, this will reduce the p
 
 7\. Click enqueue.&#x20;
 
-* You will only need to enter your password once. The coinjoin process will restart itself automatically until the target anonymity set is reached.
-* The coinjoin process will restart itself automatically until the target anonymity set is reached.&#x20;
+* You will only need to enter your password once. The CoinJoin process will restart itself automatically until the target anonymity set is reached.
+* The CoinJoin process will restart itself automatically until the target anonymity set is reached.&#x20;
 
-9\. The coinjoin process begins either once the time elapses (1 hour) or 100 peers have registered themselves.
+9\. The CoinJoin process begins either once the time elapses (1 hour) or 100 peers have registered themselves.
 
 {% hint style="danger" %}
 ### <mark style="color:red;">**WARNING**</mark>** **&#x20;
 
-You must keep Wasabi running on your computer to ensure a successful coinjoin. If you disconnect (close application, internet disconnects, Tor connection breaks) the coinjoin round will be canceled.
+You must keep Wasabi running on your computer to ensure a successful CoinJoin. If you disconnect (close application, internet disconnects, Tor connection breaks) the CoinJoin round will be canceled.
 {% endhint %}
 
-10\. Wait until the coinjoin process is complete.
+10\. Wait until the CoinJoin process is complete.
 
 11\. You will now have at least one coin with the targeted anonymity set and possibly change from that CoinJoin transaction that is not anonymous (red shield).
 
