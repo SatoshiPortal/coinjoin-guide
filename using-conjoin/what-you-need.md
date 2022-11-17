@@ -1,7 +1,7 @@
 # What you need
 
 * Up to 90 minutes of your time
-* At least 0.11 bitcoin in your Wasabi Wallet
+* At least 0.00005 bitcoin + mining fees in your Wasabi Wallet
 * A stable internet connection
 
 {% hint style="danger" %}
