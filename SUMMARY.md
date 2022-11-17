@@ -7,10 +7,10 @@
 
 * [Securing the wallet - Overview of the basics](security-overview/securing-the-wallet-overview-of-the-basics.md)
 
-## 🛡 Using Conjoin
+## 🛡 Using Coinjoin
 
 * [Overview](using-conjoin/overview.md)
-* [What you need](using-conjoin/what-you-need.md)
+* [What you need](using-coinjoin/what-you-need.md)
 * [Using CoinJoin](using-conjoin/using-coinjoin.md)
 
 ## ⚠ Summary
