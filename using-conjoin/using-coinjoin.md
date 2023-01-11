@@ -1,32 +1,10 @@
 # Using CoinJoin
+To use Wasabi Wallet for private payments, follow these steps:
 
-1. Download Wasabi Wallet. Follow the detailed instructions [<mark style="color:red;">**here**</mark>](https://app.gitbook.com/o/vkgJ5Qo6ByYsQmJoONIK/s/PdwveKS34LFQnTOWXGHS/)<mark style="color:red;">**.**</mark>
-2. Make sure that you have at least a balance of 0.11 bitcoin in your Wasabi wallet.
-   * To add bitcoin to your wallet, <mark style="color:red;">**check “Receiving Bitcoin” from the**</mark> [<mark style="color:red;">**Wasabi wallet guide**</mark>](https://app.gitbook.com/o/vkgJ5Qo6ByYsQmJoONIK/s/PdwveKS34LFQnTOWXGHS/)<mark style="color:red;">**.**</mark>
-   * You cannot CoinJoin directly from your hardware wallet, you need to have funds in the wallet you create using Wasabi.
-3. Open your Wasabi Bitcoin wallet from the right-hand menu, under “Wallet Explorer”.
-4. Select “CoinJoin” from the dropdown menu.
-5. Select the coins you want to make private by adding a checkmark beside each one.
-   * You can select up to 7 coins.
-   * The bitcoin balance needs to have enough to meet the minimum balance requirements to participate in the CoinJoin round.
-   * The round will begin once the timer elapses.
-
-{% hint style="danger" %}
-### <mark style="color:red;">**WARNING**</mark>
-
-Only select coins that have the same anonymity set. Else, this will reduce the privacy of your coins. Make sure you only select coins that have either a red, yellow or green shield. The green shield with the check mark in it means that those coins are successfully private.&#x20;
-{% endhint %}
-
-5\. Make sure the anonymity set is set to 50 (Green shield with check mark) by clicking on the large shield icon under “Target” at the bottom of the page.
-
-6\. Type in your password.&#x20;
-
-7\. Click enqueue.&#x20;
-
-* You will only need to enter your password once. The CoinJoin process will restart itself automatically until the target anonymity set is reached.
-* The CoinJoin process will restart itself automatically until the target anonymity set is reached.&#x20;
-
-9\. The CoinJoin process begins either once the time elapses (1 hour) or 100 peers have registered themselves.
+1. Download and install Wasabi Wallet and follow the detailed instructions provided in [<mark style="color:red;">**this guide**</mark>](https://app.gitbook.com/o/vkgJ5Qo6ByYsQmJoONIK/s/PdwveKS34LFQnTOWXGHS/)<mark style="color:red;">**.**</mark>
+2. Open your wallet and make sure you have at least 5000 satoshis, as well as enough funds for mining fees for each coinjoin round you plan to participate in. If you need to add bitcoin to your wallet, refer to the "Receiving Bitcoin" section of the Wasabi Wallet guide. Please note that coinjoin cannot be done directly from a hardware wallet and requires funds to be in the Wasabi-created wallet.
+3. Wait for Wasabi to automatically coinjoin in the background. By default, the Auto-start coinjoin threshold is set at 0.01 BTC. If your non-private balance is below this amount, you will need to manually press the "Play" button.
+4. Once completed, you can now make private payments. You will know when a coin has reached the desired level of privacy (reaches the Anonymity score target), as the corresponding amount will be labeled "PRIVATE" in the main view of your wallet.
 
 {% hint style="danger" %}
 ### <mark style="color:red;">**WARNING**</mark>** **&#x20;
@@ -34,11 +12,11 @@ Only select coins that have the same anonymity set. Else, this will reduce the p
 You must keep Wasabi running on your computer to ensure a successful CoinJoin. If you disconnect (close application, internet disconnects, Tor connection breaks) the CoinJoin round will be canceled.
 {% endhint %}
 
-10\. Wait until the CoinJoin process is complete.
+With the release of Wasabi Wallet 2.0, coinjoin has become much simpler and user-friendly thanks to the introduction of the WabiSabi coinjoin protocol. This new protocol improves the efficiency of coinjoin rounds and enhances your privacy by allowing for coinjoins with hundreds of inputs and outputs. For example Wasabi Wallet coinjoin transactions, refer to [<mark style="color:red;">**https://docs.wasabiwallet.io/using-wasabi/CoinJoin.html#wasabi-coinjoin-examples**</mark>].
 
-11\. You will now have at least one coin with the targeted anonymity set and possibly change from that CoinJoin transaction that is not anonymous (red shield).
+For more information on using Wasabi's coinjoin feature, check out the complete guide at [<mark style="color:red;">**https://docs.wasabiwallet.io/using-wasabi/CoinJoin.html**</mark>].
 
-12\.  Send the coins to your desired wallet or leave them in the current one**.**
+
 
 {% hint style="danger" %}
 ### <mark style="color:red;">**WARNING**</mark>
@@ -46,4 +24,4 @@ You must keep Wasabi running on your computer to ensure a successful CoinJoin. I
 Send each coin in separate transactions. Sending them several at a time or all together will remove some of the privacy gains obtained through CoinJoin.
 {% endhint %}
 
-![](<../.gitbook/assets/CoinJOIN wasabi.gif>)
+
