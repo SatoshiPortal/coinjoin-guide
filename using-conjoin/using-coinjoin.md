@@ -24,4 +24,3 @@ For more information on using Wasabi's coinjoin feature, check out the complete 
 Send each coin in separate transactions. Sending them several at a time or all together will remove some of the privacy gains obtained through CoinJoin.
 {% endhint %}
 
-
