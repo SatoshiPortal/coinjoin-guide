@@ -2,7 +2,7 @@
 To use Wasabi Wallet for private payments, follow these steps:
 
 1. Download and install Wasabi Wallet and follow the detailed instructions provided in [<mark style="color:red;">**this guide**</mark>](https://app.gitbook.com/o/vkgJ5Qo6ByYsQmJoONIK/s/PdwveKS34LFQnTOWXGHS/)<mark style="color:red;">**.**</mark>
-2. Open your wallet and make sure you have at least 5000 satoshis, as well as enough funds for mining fees for each coinjoin round you plan to participate in. If you need to add bitcoin to your wallet, refer to the "Receiving Bitcoin" section of the Wasabi Wallet guide. Please note that coinjoin cannot be done directly from a hardware wallet and requires funds to be in the Wasabi-created wallet.
+2. Open your wallet and make sure you have at least 5000 satoshis, as well as enough funds for mining + coordination fees. If you need to add bitcoin to your wallet, refer to the "Receiving Bitcoin" section of the Wasabi Wallet guide.
 3. Wait for Wasabi to automatically coinjoin in the background. By default, the Auto-start coinjoin threshold is set at 0.01 BTC. If your non-private balance is below this amount, you will need to manually press the "Play" button.
 4. Once completed, you can now make private payments. You will know when a coin has reached the desired level of privacy (reaches the Anonymity score target), as the corresponding amount will be labeled "PRIVATE" in the main view of your wallet.
 
